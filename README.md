@@ -3,7 +3,7 @@ A new VBS binder generator for running your non-crypted builds without being det
 ## Features
 <br> ✅Random obfuscation of every new generated file. All the files will have a different size and pattern
 <br> ✅No SmartScreen alert nor for the binder, neither for downloaded files
-<br> ✅No Windows Defender alerts
+<br> ✅No Windows Defender alerts 
 <br> ✅The possibility to bind several files
 <br> ✅Fake error (optional)
 
