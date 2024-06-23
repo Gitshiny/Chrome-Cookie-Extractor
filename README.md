@@ -1,6 +1,6 @@
 # VBS Binder
 A new VBS binder generator for running your non-crypted builds without being detected by Windows Defender. Generated .vbs file add a new Windows Defender exclusion (without being detected itself), downloads your file(s) on disk and runs it. This permits to use RATs/Stealers without direct encryption of the file and to avoid SmartScreen alerts. DM me to Telegram to buy it: **@shinyenigma**
-## Features
+## Features 
 <br> ✅Random obfuscation of every new generated file. All the files will have a different size and pattern
 <br> ✅No SmartScreen alert nor for the binder, neither for downloaded files
 <br> ✅No Windows Defender alerts 
