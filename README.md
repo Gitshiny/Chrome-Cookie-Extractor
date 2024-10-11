@@ -2,7 +2,7 @@
 This is a tool which permits to retrieve cookies from the latest versions of the Google Chrome browser (both 129+ and older versions), it is fully controlled via telegram bot and doesn`t requiere nor a dedicated server neither any additional software, you can read how exactly does it work below. Contact me on Telegram to buy: **@shinyenigma**
 
 ## 🌐About the issue:
-Since august of 2024 Google Chrome is user a new type of cookie- protection called Device Bound Session Credentials (DBSC). Because of it, the decrpyption of Chrome`s cookies have become much more complicated. Here is the idea of this type of protection:
+Since august of 2024 Google Chrome is user a new type of cookie- protection called Device Bound Session Credentials (DBSC). Because of it, the decryption of Chrome`s cookies has become much more complicated. Here is the idea of this type of protection:
 ![Screenshot 2024-07-26 2 15 06 PM](https://github.com/user-attachments/assets/3ca32f75-7d41-4c5d-afbf-aba2111dcc8b)
 
 Here you can see more about this topic: [Click]([https://www.genome.gov/](https://security.googleblog.com/2024/07/improving-security-of-chrome-cookies-on.html?m=1))
